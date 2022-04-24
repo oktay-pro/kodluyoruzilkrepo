@@ -1,6 +1,8 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo [kodluyoruz](http://www.kodluyoruz.org) eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de HTML barındırıyor.
+Bu repo [kodluyoruz](https://www.kodluyoruz.org)eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de HTML barındırıyor.
+
+![github](https://i.hizliresim.com/o0eapir.png)
 
 ## Installation
 
