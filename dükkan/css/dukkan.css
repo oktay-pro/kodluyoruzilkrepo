@@ -1,0 +1,19 @@
+.text-center {
+    text-align: center;
+    list-style-position: inside;
+    font-size: large;
+    font-family: sans-serif;
+    }
+.back-color {
+    background: linear-gradient(45deg, rgba(119, 192, 255, 0.75), transparent 50%),
+    linear-gradient(170deg, rgba(251, 103, 103, 0.75), transparent 70%),
+    linear-gradient(280deg, rgba(111, 250, 151, 0.75), transparent 80%);
+  background-attachment: fixed;
+}
+.nav {
+    text-align: left;
+    list-style-position: inside;
+    font-size: large;
+    font-family: sans-serif;
+    }
+}
