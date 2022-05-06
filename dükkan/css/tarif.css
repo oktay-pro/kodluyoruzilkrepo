@@ -1,0 +1,17 @@
+.text-center {
+    background-color: orange;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: outside-block;
+   
+}
+
+.heading {
+    margin-top: -22px;
+    margin-left: 38%;
+    width: 400px;
+    background-color: aqua;
+   
+}
